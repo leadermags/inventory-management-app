@@ -9,3 +9,5 @@ User will be presented with the following menu:
 - Remove Product
 
 The product's UPC, description, price, and the amount in stock will be tracked.
+
+This project was created using NetBeans IDE.
