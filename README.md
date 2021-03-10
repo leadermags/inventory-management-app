@@ -1,5 +1,7 @@
 # Inventory Management System
 
+## Inventory Management System via Commandline
+
 This project imitates an Inventory Management System using the command-line then saves the inventory list into a database (.dat) file in the user's home directory.
 
 User will be presented with the following menu:
