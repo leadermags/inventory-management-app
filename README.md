@@ -2,7 +2,7 @@
 
 These projects imitate an Inventory Management System through different methods. The product's UPC, description, price, and the amount in stock will be tracked.
 
-These projects were created using NetBeans IDE.
+These projects were created using NetBeans IDE and the GlassFish server.
 
 ## Inventory Management System via Commandline
 
