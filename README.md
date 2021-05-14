@@ -37,3 +37,8 @@ Users will be able to view the inventory list and access forms to Create new pro
 [<img src="https://user-images.githubusercontent.com/60166111/110691698-77903280-81b3-11eb-92f7-791442621f10.png" width="75%">](https://user-images.githubusercontent.com/60166111/110690280-be7d2880-81b1-11eb-8705-1f9979eba8c7.mp4)
 
 
+## Inventory Management System via Web (enhanced)
+
+This project built on top of the last one without saving data to file and instead saved to a database. 
+
+There are also different user roles to permit/restrict access to certain pages/features of the web application. Error handling, hashing and salting, and logging were also incorporated.
